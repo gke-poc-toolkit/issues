@@ -1,2 +1,1 @@
-# issues
-Google Cloud Bugbounty POC
+# Google Cloud Bugbounty POC
